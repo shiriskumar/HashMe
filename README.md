@@ -1,4 +1,4 @@
-![HashMe](Resources/animation.gif {width=400px height=300px})
+![HashMe](Resources/animation.gif =400x300)
 
 #HashMe
 
