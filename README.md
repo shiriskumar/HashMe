@@ -1,13 +1,13 @@
 ![HashMe](Resources/animation.gif)
 
-#HashMe
+# HashMe
 
-##Introduction
+## Introduction
 
 HashMe is a open-source Python3 program that can calculate all 
 file digests (like md5, sha1, sha512 etc.) in one go.
 
-##Usage
+## Usage
 
 ```bash
 $ HashMe.py algorithm [algorithm ...] [option [options ...]]
@@ -61,7 +61,7 @@ HashMe has some options that can be used to change the behavior:
   specified as input. The default is to use a single thread. Use `--threads auto`
   to start as many threads as CPUs available.
 
-##Requirements
+## Requirements
 
 You will require Python 3.3+ to enjoy all the features of HashMe seamlessly.
 
